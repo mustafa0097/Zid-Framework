@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26816" started-at="2020-06-10T11:01:54 EET" finished-at="2020-06-10T11:02:21 EET">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:ZidFrameworkTest.Zid.InvalidRegisterTest@646d64ab]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="26816" started-at="2020-06-10T11:01:54 EET" finished-at="2020-06-10T11:02:21 EET">
+      <class name="ZidFrameworkTest.Zid.InvalidRegisterTest">
+        <test-method status="PASS" signature="StartDriver()[pri:0, instance:ZidFrameworkTest.Zid.InvalidRegisterTest@646d64ab]" name="StartDriver" is-config="true" duration-ms="7665" started-at="2020-06-10T11:01:46 EET" finished-at="2020-06-10T11:01:54 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:ZidFrameworkTest.Zid.InvalidRegisterTest@646d64ab]" name="setUpClass" is-config="true" duration-ms="423" started-at="2020-06-10T11:01:54 EET" finished-at="2020-06-10T11:01:54 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="Register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ZidFrameworkTest.Zid.InvalidRegisterTest@646d64ab]" name="Register" duration-ms="13326" started-at="2020-06-10T11:01:54 EET" data-provider="testData" finished-at="2020-06-10T11:02:07 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[disha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[595558656]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[wqtdq3bru@moakt.co]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[0123456789]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[zedddddd]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[rioto]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method status="PASS" signature="Register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ZidFrameworkTest.Zid.InvalidRegisterTest@646d64ab]" name="Register" duration-ms="12993" started-at="2020-06-10T11:02:07 EET" data-provider="testData" finished-at="2020-06-10T11:02:20 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[disha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[595558656]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nx3vn4oza@tmail.ws]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[0123456789]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[wegz]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[rioto]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:ZidFrameworkTest.Zid.InvalidRegisterTest@646d64ab]" name="tearDownClass" is-config="true" duration-ms="13" started-at="2020-06-10T11:02:20 EET" finished-at="2020-06-10T11:02:21 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="driverstop()[pri:0, instance:ZidFrameworkTest.Zid.InvalidRegisterTest@646d64ab]" name="driverstop" is-config="true" duration-ms="0" started-at="2020-06-10T11:02:21 EET" finished-at="2020-06-10T11:02:21 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverstop -->
+      </class> <!-- ZidFrameworkTest.Zid.InvalidRegisterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
